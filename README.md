@@ -1,20 +1,16 @@
-# Gayathri034.github.io
-Personal portfolio site
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=Jahnavi%20Gayathri%20Lakshmisetti&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Software%20Engineer%20%7C%20Data%20%26%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E1B4B,100:7C3AED&height=230&section=header&text=Jahnavi%20Gayathri%20Lakshmisetti&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Software%20Engineer%20%7C%20Data%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+and+data-driven+systems;MS+Computer+Science+%26+Engineering+%7C+AI%2FML+Specialization;Python+%7C+FastAPI+%7C+React+%7C+SQL+%7C+PyTorch+%7C+Automation;Former+Accenture+Associate+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+and+data-driven+systems;MS+Computer+Science+and+Engineering+with+AI%2FML+Specialization;Python+%7C+FastAPI+%7C+React+%7C+SQL+%7C+PyTorch+%7C+Automation;Former+Accenture+Associate+Software+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakshmi@buffalo.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jahnavi%20Gayathri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-gayathri-34a240212)
 [![GitHub](https://img.shields.io/badge/GitHub-Gayathri034-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathri034)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Branding%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 <br/><br/>
 
@@ -34,17 +30,17 @@ I am a Master's student in **Computer Science and Engineering at the University 
 My work connects four areas:
 
 - **Software Engineering:** backend APIs, debugging, testing, documentation, and full-stack projects
-- **Data Engineering & Analytics:** SQL validation, KPI reporting, reconciliation, and data-quality workflows
+- **Data Engineering and Analytics:** SQL validation, KPI reporting, reconciliation, and data-quality workflows
 - **AI/ML:** deep learning, NLP, computer vision, multimodal datasets, and model evaluation
-- **RPA & Automation:** Power Automate Desktop, Automation Anywhere, workflow automation, and exception handling
+- **RPA and Automation:** Power Automate Desktop, Automation Anywhere, workflow automation, and exception handling
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0891B2&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0891B2&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
-### Programming & Core
+### Programming and Core
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![C](https://skillicons.dev/icons?i=c)
@@ -52,7 +48,7 @@ My work connects four areas:
 ![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-### Web & Backend
+### Web and Backend
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
@@ -60,14 +56,14 @@ My work connects four areas:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### AI/ML & Data
+### AI/ML and Data
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### Tools & Platforms
+### Tools and Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Docker](https://skillicons.dev/icons?i=docker)
@@ -79,7 +75,7 @@ My work connects four areas:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1E3A8A&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff" />
 
 <table>
 <tr>
@@ -283,7 +279,7 @@ I am supporting a real-world multimodal AI perception platform for intelligent a
 - Classification, object detection, and segmentation tasks
 - Realistic industrial-condition testing with lighting, object orientation, and conveyor-speed variation
 
-**Sensors & Tools:**
+**Sensors and Tools:**
 
 - Ultris X20 Plus hyperspectral camera
 - FLIR Blackfly S machine-vision camera
@@ -320,7 +316,7 @@ I worked on enterprise automation, RPA development, REST API integrations, SQL-d
 - Root-cause analysis and production issue troubleshooting
 - Technical documentation and stakeholder communication
 
-**Tools & Technologies:**
+**Tools and Technologies:**
 
 - Power Automate Desktop
 - Automation Anywhere
@@ -351,7 +347,7 @@ This experience supports my profile across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:7C3AED&height=70&section=header&text=Currently%20Learning&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7C3AED&height=70&section=header&text=Currently%20Learning&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -365,7 +361,7 @@ This experience supports my profile across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=70&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:2563EB&height=70&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -381,7 +377,7 @@ This experience supports my profile across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0891B2&height=70&section=header&text=Contribution%20Graph&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0891B2&height=70&section=header&text=Contribution%20Graph&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -391,7 +387,7 @@ This experience supports my profile across:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7C3AED&height=70&section=header&text=Achievements%20%26%20Certifications&fontSize=24&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7C3AED&height=70&section=header&text=Achievements%20and%20Certifications&fontSize=24&fontColor=ffffff" />
 
 <div align="center">
 
@@ -424,6 +420,6 @@ I am open to opportunities in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E3A8A,100:0F172A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E1B4B,100:020617&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 
 </div>
