@@ -3,24 +3,31 @@ Personal portfolio site
 
 <div align="center">
 
-# Hi, I'm Jahnavi Gayathri Lakshmisetti  
-
-### AI/ML-Focused Software Engineer | Data & Automation Engineer | Full-Stack Developer  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-assisted+applications+and+data-driven+systems;MS+Computer+Science+%26+Engineering+%7C+AI%2FML+Specialization;Python+%7C+FastAPI+%7C+React+%7C+SQL+%7C+PyTorch+%7C+Automation;Former+Accenture+Associate+Software+Engineer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=Jahnavi%20Gayathri%20Lakshmisetti&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Software%20Engineer%20%7C%20Data%20%26%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakshmi@buffalo.edu)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+and+data-driven+systems;MS+Computer+Science+%26+Engineering+%7C+AI%2FML+Specialization;Python+%7C+FastAPI+%7C+React+%7C+SQL+%7C+PyTorch+%7C+Automation;Former+Accenture+Associate+Software+Engineer" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakshmi@buffalo.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jahnavi%20Gayathri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-gayathri-34a240212)
 [![GitHub](https://img.shields.io/badge/GitHub-Gayathri034-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathri034)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Branding%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Engineering-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Data%20Engineering-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-RPA%20Automation-22C55E?style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=70&section=header&text=About%20Me&fontSize=26&fontColor=ffffff" />
 
 I am a Master's student in **Computer Science and Engineering at the University at Buffalo**, specializing in **AI/ML**. I have **2+ years of experience at Accenture** working on enterprise automation, RPA development, REST API integrations, SQL-driven data validation, workflow monitoring, testing, debugging, and technical documentation.
 
@@ -33,7 +40,7 @@ My work connects four areas:
 
 ---
 
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0891B2&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -72,7 +79,7 @@ My work connects four areas:
 
 ---
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff" />
 
 <table>
 <tr>
@@ -147,7 +154,9 @@ Supporting a real-world research project that collects and organizes multimodal 
 
 ---
 
-## Project Deep Dive: AI Career Twin
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7C3AED&height=70&section=header&text=Project%20Deep%20Dives&fontSize=26&fontColor=ffffff" />
+
+## AI Career Twin
 
 AI Career Twin is a full-stack career assistant that helps students and job seekers compare their resume against a job description. The platform analyzes resume content, detects skill alignment, identifies missing skills, and gives actionable career preparation outputs.
 
@@ -194,7 +203,7 @@ AI Career Twin is a full-stack career assistant that helps students and job seek
 
 ---
 
-## Project Deep Dive: Service Desk Ticket Classification
+## Service Desk Ticket Classification
 
 Built a deep learning-based service desk ticket classification system to automatically assign customer complaint tickets to the correct product category, helping reduce manual categorization effort and improve support-ticket resolution speed.
 
@@ -234,7 +243,7 @@ Built a deep learning-based service desk ticket classification system to automat
 
 ---
 
-## Project Deep Dive: Real-Time AI Data Intelligence Platform
+## Real-Time AI Data Intelligence Platform
 
 Built a real-time AI monitoring platform that streams simulated transaction events, detects anomalies, and updates dashboard metrics live through WebSocket communication.
 
@@ -258,9 +267,9 @@ Built a real-time AI monitoring platform that streams simulated transaction even
 
 ---
 
-## Research Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563EB&height=70&section=header&text=Research%20Experience&fontSize=26&fontColor=ffffff" />
 
-### Multimodal AI Perception for Intelligent Waste Sorting  
+## Multimodal AI Perception for Intelligent Waste Sorting  
 **Research Assistant — University at Buffalo**
 
 I am supporting a real-world multimodal AI perception platform for intelligent and automated waste sorting. The project focuses on collecting, organizing, and validating plastic-object datasets from a conveyor-based sensing setup using multiple sensing technologies.
@@ -293,9 +302,9 @@ I am supporting a real-world multimodal AI perception platform for intelligent a
 
 ---
 
-## Professional Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:22C55E&height=70&section=header&text=Professional%20Experience&fontSize=26&fontColor=ffffff" />
 
-### Associate Software Engineer — Accenture  
+## Associate Software Engineer — Accenture  
 **Jul 2023 – Aug 2025**
 
 I worked on enterprise automation, RPA development, REST API integrations, SQL-driven data validation, workflow monitoring, testing, debugging, documentation, and stakeholder support. My experience connects software engineering, data workflows, AI-ready validation, and RPA automation.
@@ -342,7 +351,7 @@ This experience supports my profile across:
 
 ---
 
-## Currently Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:7C3AED&height=70&section=header&text=Currently%20Learning&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -356,7 +365,7 @@ This experience supports my profile across:
 
 ---
 
-## GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=70&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -372,17 +381,17 @@ This experience supports my profile across:
 
 ---
 
-## Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0891B2&height=70&section=header&text=Contribution%20Graph&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri034&theme=tokyo-night&hide_border=true" />
+<img src="https://ghchart.rshah.org/58A6FF/Gayathri034" alt="Jahnavi's GitHub contribution chart" />
 
 </div>
 
 ---
 
-## Achievements & Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7C3AED&height=70&section=header&text=Achievements%20%26%20Certifications&fontSize=24&fontColor=ffffff" />
 
 <div align="center">
 
@@ -395,7 +404,7 @@ This experience supports my profile across:
 
 ---
 
-## Contact Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:7C3AED&height=70&section=header&text=Contact%20Me&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
@@ -403,7 +412,7 @@ I am open to opportunities in:
 
 **AI/ML Engineering | Software Engineering | Data Engineering | Product Engineering | Enterprise Automation**
 
-<br/>
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakshmi@buffalo.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-gayathri-34a240212)
@@ -415,8 +424,6 @@ I am open to opportunities in:
 
 <div align="center">
 
-### Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E3A8A,100:0F172A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 
 </div>
