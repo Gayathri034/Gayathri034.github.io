@@ -1,5 +1,6 @@
 # Gayathri034.github.io
-Personal portfolio site 
+Personal portfolio site
+
 <div align="center">
 
 # Hi, I'm Jahnavi Gayathri Lakshmisetti  
@@ -21,16 +22,14 @@ Personal portfolio site
 
 ## About Me
 
-I am a Master's student in **Computer Science and Engineering at the University at Buffalo**, specializing in **AI/ML**.  
-I have **2+ years of experience at Accenture** working on enterprise automation, REST API integrations, SQL-driven data validation, workflow monitoring, testing, debugging, and technical documentation.
+I am a Master's student in **Computer Science and Engineering at the University at Buffalo**, specializing in **AI/ML**. I have **2+ years of experience at Accenture** working on enterprise automation, RPA development, REST API integrations, SQL-driven data validation, workflow monitoring, testing, debugging, and technical documentation.
 
-My work focuses on building practical software systems that combine:
+My work connects four areas:
 
-- AI/ML and deep learning
-- Backend APIs and full-stack applications
-- Data validation and reporting workflows
-- Enterprise automation and process improvement
-- Research-driven multimodal data collection
+- **Software Engineering:** backend APIs, debugging, testing, documentation, and full-stack projects
+- **Data Engineering & Analytics:** SQL validation, KPI reporting, reconciliation, and data-quality workflows
+- **AI/ML:** deep learning, NLP, computer vision, multimodal datasets, and model evaluation
+- **RPA & Automation:** Power Automate Desktop, Automation Anywhere, workflow automation, and exception handling
 
 ---
 
@@ -81,28 +80,34 @@ My work focuses on building practical software systems that combine:
 
 ### AI Career Twin
 
-AI-assisted full-stack platform that analyzes resumes and job descriptions to generate match scores, missing skills, resume suggestions, interview questions, and learning plans.
+Built a full-stack AI-assisted career analysis platform that compares resumes with job descriptions and generates match scores, matched skills, missing skills, resume bullet suggestions, interview questions, and a personalized learning plan.
 
-**Tech Stack:** Python, FastAPI, React, Next.js, REST APIs, JSON, Document Processing
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Pydantic, REST APIs, JSON, PDF/DOCX/TXT Parsing, Vercel, Render
 
 <br/>
 
-<a href="https://ai-career-twin-my2w.onrender.com">
+<a href="https://ai-career-twin-kappa.vercel.app">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://ai-career-twin-my2w.onrender.com">
+<img src="https://img.shields.io/badge/Backend%20API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </a>
 
 </td>
+
 <td width="50%">
 
-### OCTMNIST Deep Learning Classification
+### Service Desk Ticket Classification
 
-Built and evaluated CNN-based medical image classification models using VGG16, ResNet18, and ResNeXt. Improved model accuracy from baseline to over 90%.
+Built a deep learning-based ticket classification system that automatically categorizes financial complaint tickets to reduce manual effort, improve classification consistency, and speed up support-ticket resolution.
 
-**Tech Stack:** Python, PyTorch, CNNs, VGG16, ResNet18, ResNeXt
+**Tech Stack:** Python, PyTorch, HuggingFace Transformers, DistilBERT, CNN, BiLSTM, NLP, LIME, Streamlit
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-DistilBERT-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Explainability-LIME-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deployment-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </td>
 </tr>
@@ -110,28 +115,31 @@ Built and evaluated CNN-based medical image classification models using VGG16, R
 <tr>
 <td width="50%">
 
-### Service Desk Ticket Classification
-
-Developed an NLP pipeline to classify financial complaint tickets using DistilBERT, CNN, and BiLSTM models for faster support-ticket triage.
-
-**Tech Stack:** Python, PyTorch, HuggingFace Transformers, DistilBERT, NLP
-
-<br/>
-
-<img src="https://img.shields.io/badge/NLP-DistilBERT-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-</td>
-<td width="50%">
-
 ### Real-Time AI Data Intelligence Platform
 
-Built a real-time analytics platform that streams operational events, processes records, detects abnormal patterns, and supports faster monitoring.
+Built a real-time AI monitoring platform that streams transaction events through WebSockets, detects anomalies using Isolation Forest, and updates live dashboard metrics.
 
-**Tech Stack:** Python, FastAPI, React, WebSockets, REST APIs, JSON
+**Tech Stack:** Python, FastAPI, WebSockets, scikit-learn, React, TypeScript, Tailwind CSS, JSON
 
 <br/>
 
-<img src="https://img.shields.io/badge/Real--Time%20Analytics-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time%20AI-FastAPI%20%2B%20WebSockets-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection-Isolation%20Forest-7C3AED?style=for-the-badge" />
+
+</td>
+
+<td width="50%">
+
+### Multimodal AI Perception for Intelligent Waste Sorting
+
+Supporting a real-world research project that collects and organizes multimodal plastic-object datasets from a conveyor-based sensing setup for intelligent waste sorting.
+
+**Tech Stack:** Python, Linux, Computer Vision, CVAT, Hyperspectral Imaging, Thermal Imaging, mmWave Radar, Sensor Calibration
+
+<br/>
+
+<img src="https://img.shields.io/badge/Research-Multimodal%20AI-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Waste%20Sorting-22C55E?style=for-the-badge" />
 
 </td>
 </tr>
@@ -139,22 +147,149 @@ Built a real-time analytics platform that streams operational events, processes 
 
 ---
 
+## Project Deep Dive: AI Career Twin
+
+AI Career Twin is a full-stack career assistant that helps students and job seekers compare their resume against a job description. The platform analyzes resume content, detects skill alignment, identifies missing skills, and gives actionable career preparation outputs.
+
+**Live Demo:** https://ai-career-twin-kappa.vercel.app  
+**Backend API:** https://ai-career-twin-my2w.onrender.com
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Pydantic, REST APIs, JSON, pypdf, python-docx, Vercel, Render
+
+**Key Features:**
+
+- Supports both pasted resume text and resume file upload
+- Extracts resume content from PDF, DOCX, and TXT files
+- Compares resume content against a pasted job description
+- Calculates a job match score based on required and matched skills
+- Identifies required skills, matched skills, and missing skills
+- Generates resume bullet suggestions based on matched and missing skills
+- Generates interview preparation questions from job-required skills
+- Creates a personalized learning plan for missing skills
+- Provides overall feedback such as strong match, moderate match, or low match
+- Includes error handling, file validation, clear/reset option, and deployed frontend-backend integration
+
+**Backend Highlights:**
+
+- Built FastAPI backend with `/`, `/analyze`, and `/analyze-file` endpoints
+- Used Pydantic schemas for request and response validation
+- Implemented CORS support for frontend-backend communication
+- Built resume parsing logic for PDF, DOCX, and TXT uploads
+- Added structured JSON responses for match score, skill gaps, suggestions, questions, and learning plan
+
+**Frontend Highlights:**
+
+- Built a responsive Next.js and React interface using TypeScript and Tailwind CSS
+- Designed separate input areas for resume/profile text, resume file upload, and job description
+- Added loading states, error messages, selected-file display, clear button, and result cards
+- Displayed analysis results in structured sections for required skills, matched skills, missing skills, resume suggestions, interview questions, and learning plan
+
+**Role Fit:**
+
+- **SDE Roles:** Full-stack development, REST APIs, FastAPI, React, TypeScript, validation, error handling, deployment
+- **Data Roles:** Skill matching logic, structured outputs, text parsing, comparison workflow, and analysis results
+- **AI/ML Roles:** AI-assisted career analysis, resume/job matching, learning plan generation, and skill-gap identification
+- **Product Roles:** User problem framing, job seeker workflow, actionable outputs, clear UX, and end-to-end product delivery
+- **RPA/Automation Roles:** Automated resume-job comparison, rule-based matching, workflow automation, and structured recommendations
+
+---
+
+## Project Deep Dive: Service Desk Ticket Classification
+
+Built a deep learning-based service desk ticket classification system to automatically assign customer complaint tickets to the correct product category, helping reduce manual categorization effort and improve support-ticket resolution speed.
+
+**Tech Stack:** Python, PyTorch, HuggingFace Transformers, DistilBERT, CNN, BiLSTM, NLP, LIME, Streamlit, Google Colab T4 GPU
+
+**Dataset:**
+
+- Used the Automatic Ticket Classification dataset from Kaggle, based on CFPB financial complaints
+- Cleaned the dataset to 21,072 usable records across 8 classes
+- Classes included Bank Account, Credit Card, Credit Reporting, Debt Collection, Loans, Money Transfer, Mortgage, and Other
+- Handled class imbalance using class-weighted loss for CNN and BiLSTM models
+
+**Key Features:**
+
+- Built and compared three deep learning models: Multi-Kernel CNN, Stacked BiLSTM, and DistilBERT
+- Fine-tuned DistilBERT using HuggingFace Transformers and a native PyTorch training loop
+- Applied text preprocessing including lowercasing, punctuation removal, stopword filtering, stemming, tokenization, and sequence padding
+- Used DistilBERT WordPiece tokenization for transformer-based contextual text understanding
+- Evaluated models using accuracy, precision, recall, F1-score, per-class performance, confusion matrices, and training curves
+- Added LIME explainability to understand which words influenced predictions
+- Deployed the best model as an interactive Streamlit web app with single-ticket and batch-processing modes
+
+**Model Performance:**
+
+- CNN baseline achieved 77.16% accuracy
+- BiLSTM achieved 77.10% accuracy
+- DistilBERT achieved the best baseline performance with 79.88% accuracy and 0.7919 F1-score
+- After tuning, DistilBERT reached 81.3% accuracy
+- Cross-dataset evaluation on IT service desk tickets achieved 87.6% accuracy
+
+**My Contributions:**
+
+- Fine-tuned DistilBERT for ticket classification using PyTorch and HuggingFace Transformers
+- Worked on preprocessing, model evaluation, LIME explainability, report writing, and project tracking
+- Analyzed model behavior using feature importance and prediction explanations
+- Helped document the full project pipeline from preprocessing and training to evaluation and deployment
+
+---
+
+## Project Deep Dive: Real-Time AI Data Intelligence Platform
+
+Built a real-time AI monitoring platform that streams simulated transaction events, detects anomalies, and updates dashboard metrics live through WebSocket communication.
+
+**Tech Stack:** Python, FastAPI, WebSockets, scikit-learn, Isolation Forest, React, TypeScript, Tailwind CSS, REST/JSON
+
+**Key Features:**
+
+- Built a FastAPI backend with a live WebSocket endpoint `/ws/events` for streaming transaction events to connected clients
+- Implemented an anomaly-detection pipeline using scikit-learn Isolation Forest to flag abnormal transaction patterns
+- Created a transaction event simulator generating user, merchant, city, device, amount, timestamp, and anomaly-score data
+- Developed a React and TypeScript dashboard showing live event status, total events, anomaly count, anomaly rate, and latest transaction table
+- Used Pydantic schemas for structured event and metrics validation
+- Added CORS support, async event streaming, WebSocket client management, and real-time metric updates
+
+**Role Fit:**
+
+- **SDE Roles:** FastAPI, WebSockets, React, TypeScript, async backend, JSON, and debugging
+- **Data Roles:** event data, metrics, anomaly rate, transaction monitoring, and structured data
+- **AI/ML Roles:** Isolation Forest, anomaly detection, feature engineering, and model scoring
+- **RPA/Automation Roles:** live monitoring, exception/anomaly detection, and operational dashboarding
+
+---
+
 ## Research Experience
 
-### Multimodal Plastic Sensing Research
+### Multimodal AI Perception for Intelligent Waste Sorting  
+**Research Assistant — University at Buffalo**
 
-Research Assistant at the University at Buffalo working on a multimodal plastic-sensing pipeline involving physical-world sensor data.
+I am supporting a real-world multimodal AI perception platform for intelligent and automated waste sorting. The project focuses on collecting, organizing, and validating plastic-object datasets from a conveyor-based sensing setup using multiple sensing technologies.
 
-Key focus areas:
+**Project Focus:**
 
-- Hyperspectral imaging
-- RGB / monochrome imaging
-- Thermal sensing
-- mmWave radar data
-- Calibration workflows
-- Sensor data validation
-- Experiment documentation
-- AI model evaluation planning
+- Intelligent waste sorting using AI perception
+- Conveyor-based plastic-object data collection
+- Hyperspectral, RGB, monochrome, thermal, and mmWave radar sensing
+- Dataset preparation for machine learning research
+- Classification, object detection, and segmentation tasks
+- Realistic industrial-condition testing with lighting, object orientation, and conveyor-speed variation
+
+**Sensors & Tools:**
+
+- Ultris X20 Plus hyperspectral camera
+- FLIR Blackfly S machine-vision camera
+- FLIR A325sc thermal camera
+- TI AWR2243 cascade mmWave radar
+- CVAT annotation workflows
+- Python, Linux, calibration workflows, experiment metadata, and data-quality checks
+
+**My Contributions:**
+
+- Assist with camera/radar operation, calibration workflows, and conveyor-based experiment setup
+- Support sensor synchronization and reproducible multimodal data-collection procedures
+- Organize hyperspectral, RGB, monochrome, thermal, and radar data for AI/ML model development
+- Support CVAT-based annotation workflows for classification, detection, and segmentation datasets
+- Document calibration steps, experiment metadata, data-quality checks, troubleshooting observations, and model-evaluation plans
 
 ---
 
@@ -163,15 +298,47 @@ Key focus areas:
 ### Associate Software Engineer — Accenture  
 **Jul 2023 – Aug 2025**
 
-Worked on enterprise automation, workflow monitoring, REST API integrations, SQL-driven validation, testing, debugging, documentation, and stakeholder support.
+I worked on enterprise automation, RPA development, REST API integrations, SQL-driven data validation, workflow monitoring, testing, debugging, documentation, and stakeholder support. My experience connects software engineering, data workflows, AI-ready validation, and RPA automation.
 
-Highlights:
+**Core Work Areas:**
 
-- Built automation workflows using Power Automate Desktop and Automation Anywhere
-- Worked with SQL, REST APIs, JSON, Excel, ServiceNow, and enterprise applications
-- Performed functional testing, integration testing, API testing, regression testing, UAT, and release validation
+- Software engineering workflows
+- RPA and workflow automation
+- SQL-based data validation and reconciliation
+- REST API integration and JSON validation
+- KPI reporting and operational monitoring
+- Functional, integration, regression, API, and UAT testing
+- Root-cause analysis and production issue troubleshooting
+- Technical documentation and stakeholder communication
+
+**Tools & Technologies:**
+
+- Power Automate Desktop
+- Automation Anywhere
+- SQL / Microsoft SQL Server / SSMS
+- REST APIs and JSON
+- Excel and CSV workflows
+- ServiceNow
+- Outlook automation
+- Enterprise application support
+
+**Impact:**
+
+- Built reusable automation workflows for data intake, validation, status updates, exception routing, retry handling, output verification, and reporting
+- Created SQL-driven reporting and validation workflows for KPI monitoring, exception tracking, reconciliation, and decision support
+- Troubleshot production issues using SQL records, API responses, bot execution logs, Excel files, ServiceNow tickets, screenshots, and recurring error patterns
 - Improved workflow reliability by approximately 30%
 - Reduced recurring production incidents by approximately 25%
+- Received ACE Award and client appreciation for automation improvements, debugging, documentation quality, stakeholder communication, and reliable enterprise delivery
+
+**Role Fit:**
+
+This experience supports my profile across:
+
+- **SDE Roles:** APIs, debugging, testing, backend workflows, documentation, and cross-functional delivery
+- **Data Roles:** SQL, data validation, KPI reporting, reconciliation, data-quality checks, and reporting workflows
+- **AI/ML Roles:** AI-ready datasets, validation workflows, structured data preparation, model-evaluation support, and research documentation
+- **RPA Roles:** Power Automate Desktop, Automation Anywhere, workflow automation, bot logs, exception handling, and process improvement
 
 ---
 
