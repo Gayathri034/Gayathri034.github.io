@@ -8,11 +8,19 @@
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakshmi@buffalo.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jahnavi%20Gayathri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-gayathri-34a240212)
-[![GitHub](https://img.shields.io/badge/GitHub-Gayathri034-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathri034)
+<p align="center">
+  <a href="mailto:jlakshmi@buffalo.edu">
+    <img src="https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jahnavi-gayathri-34a240212">
+    <img src="https://img.shields.io/badge/LinkedIn-Jahnavi%20Gayathri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gayathri034">
+    <img src="https://img.shields.io/badge/GitHub-Gayathri034-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Engineering-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-7C3AED?style=for-the-badge" />
@@ -40,36 +48,19 @@ My work connects four areas:
 
 <div align="center">
 
-### Programming and Core
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+<h3>Programming and Core</h3>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
 
-### Web and Backend
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<h3>Web and Backend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,html,css,tailwind" />
 
-### AI/ML and Data
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<h3>AI/ML and Data</h3>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,postgres,mysql" />
 
-### Tools and Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
+<h3>Tools and Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 
 </div>
 
@@ -79,34 +70,39 @@ My work connects four areas:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AI Career Twin
+<h3>AI Career Twin</h3>
 
+<p>
 Built a full-stack AI-assisted career analysis platform that compares resumes with job descriptions and generates match scores, matched skills, missing skills, resume bullet suggestions, interview questions, and a personalized learning plan.
+</p>
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Pydantic, REST APIs, JSON, PDF/DOCX/TXT Parsing, Vercel, Render
-
-<br/>
+<p>
+<b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Pydantic, REST APIs, JSON, PDF/DOCX/TXT Parsing, Vercel, Render
+</p>
 
 <a href="https://ai-career-twin-kappa.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-View%20Project-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://ai-career-twin-my2w.onrender.com">
-<img src="https://img.shields.io/badge/Backend%20API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Service Desk Ticket Classification
+<h3>Service Desk Ticket Classification</h3>
 
+<p>
 Built a deep learning-based ticket classification system that automatically categorizes financial complaint tickets to reduce manual effort, improve classification consistency, and speed up support-ticket resolution.
+</p>
 
-**Tech Stack:** Python, PyTorch, HuggingFace Transformers, DistilBERT, CNN, BiLSTM, NLP, LIME, Streamlit
-
-<br/>
+<p>
+<b>Tech Stack:</b> Python, PyTorch, HuggingFace Transformers, DistilBERT, CNN, BiLSTM, NLP, LIME, Streamlit
+</p>
 
 <img src="https://img.shields.io/badge/NLP-DistilBERT-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Explainability-LIME-7C3AED?style=for-the-badge" />
@@ -116,30 +112,34 @@ Built a deep learning-based ticket classification system that automatically cate
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Real-Time AI Data Intelligence Platform
+<h3>Real-Time AI Data Intelligence Platform</h3>
 
+<p>
 Built a real-time AI monitoring platform that streams transaction events through WebSockets, detects anomalies using Isolation Forest, and updates live dashboard metrics.
+</p>
 
-**Tech Stack:** Python, FastAPI, WebSockets, scikit-learn, React, TypeScript, Tailwind CSS, JSON
-
-<br/>
+<p>
+<b>Tech Stack:</b> Python, FastAPI, WebSockets, scikit-learn, React, TypeScript, Tailwind CSS, JSON
+</p>
 
 <img src="https://img.shields.io/badge/Real--Time%20AI-FastAPI%20%2B%20WebSockets-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Anomaly%20Detection-Isolation%20Forest-7C3AED?style=for-the-badge" />
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Multimodal AI Perception for Intelligent Waste Sorting
+<h3>Multimodal AI Perception for Intelligent Waste Sorting</h3>
 
+<p>
 Supporting a real-world research project that collects and organizes multimodal plastic-object datasets from a conveyor-based sensing setup for intelligent waste sorting.
+</p>
 
-**Tech Stack:** Python, Linux, Computer Vision, CVAT, Hyperspectral Imaging, Thermal Imaging, mmWave Radar, Sensor Calibration
-
-<br/>
+<p>
+<b>Tech Stack:</b> Python, Linux, Computer Vision, CVAT, Hyperspectral Imaging, Thermal Imaging, mmWave Radar, Sensor Calibration
+</p>
 
 <img src="https://img.shields.io/badge/Research-Multimodal%20AI-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Computer%20Vision-Waste%20Sorting-22C55E?style=for-the-badge" />
@@ -188,14 +188,6 @@ AI Career Twin is a full-stack career assistant that helps students and job seek
 - Designed separate input areas for resume/profile text, resume file upload, and job description
 - Added loading states, error messages, selected-file display, clear button, and result cards
 - Displayed analysis results in structured sections for required skills, matched skills, missing skills, resume suggestions, interview questions, and learning plan
-
-**Role Fit:**
-
-- **SDE Roles:** Full-stack development, REST APIs, FastAPI, React, TypeScript, validation, error handling, deployment
-- **Data Roles:** Skill matching logic, structured outputs, text parsing, comparison workflow, and analysis results
-- **AI/ML Roles:** AI-assisted career analysis, resume/job matching, learning plan generation, and skill-gap identification
-- **Product Roles:** User problem framing, job seeker workflow, actionable outputs, clear UX, and end-to-end product delivery
-- **RPA/Automation Roles:** Automated resume-job comparison, rule-based matching, workflow automation, and structured recommendations
 
 ---
 
@@ -253,13 +245,6 @@ Built a real-time AI monitoring platform that streams simulated transaction even
 - Developed a React and TypeScript dashboard showing live event status, total events, anomaly count, anomaly rate, and latest transaction table
 - Used Pydantic schemas for structured event and metrics validation
 - Added CORS support, async event streaming, WebSocket client management, and real-time metric updates
-
-**Role Fit:**
-
-- **SDE Roles:** FastAPI, WebSockets, React, TypeScript, async backend, JSON, and debugging
-- **Data Roles:** event data, metrics, anomaly rate, transaction monitoring, and structured data
-- **AI/ML Roles:** Isolation Forest, anomaly detection, feature engineering, and model scoring
-- **RPA/Automation Roles:** live monitoring, exception/anomaly detection, and operational dashboarding
 
 ---
 
@@ -336,26 +321,17 @@ I worked on enterprise automation, RPA development, REST API integrations, SQL-d
 - Reduced recurring production incidents by approximately 25%
 - Received ACE Award and client appreciation for automation improvements, debugging, documentation quality, stakeholder communication, and reliable enterprise delivery
 
-**Role Fit:**
-
-This experience supports my profile across:
-
-- **SDE Roles:** APIs, debugging, testing, backend workflows, documentation, and cross-functional delivery
-- **Data Roles:** SQL, data validation, KPI reporting, reconciliation, data-quality checks, and reporting workflows
-- **AI/ML Roles:** AI-ready datasets, validation workflows, structured data preparation, model-evaluation support, and research documentation
-- **RPA Roles:** Power Automate Desktop, Automation Anywhere, workflow automation, bot logs, exception handling, and process improvement
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7C3AED&height=70&section=header&text=Currently%20Learning&fontSize=26&fontColor=ffffff" />
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Concepts-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-Scalable%20Systems-7C3AED?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-LeetCode%20Practice-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)
-![MLOps](https://img.shields.io/badge/MLOps-Model%20Deployment-00C7B7?style=for-the-badge)
+<img src="https://img.shields.io/badge/AWS-Cloud%20Concepts-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-Scalable%20Systems-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-LeetCode%20Practice-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/MLOps-Model%20Deployment-00C7B7?style=for-the-badge" />
 
 </div>
 
@@ -391,10 +367,10 @@ This experience supports my profile across:
 
 <div align="center">
 
-![Microsoft Power Platform](https://img.shields.io/badge/Microsoft-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-Desktop-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-RPA-FF6F00?style=for-the-badge)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Full%20Stack-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-Desktop-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation%20Anywhere-RPA-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ASP.NET-Full%20Stack-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 </div>
 
@@ -410,9 +386,17 @@ I am open to opportunities in:
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlakshmi@buffalo.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-gayathri-34a240212)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathri034)
+<a href="mailto:jlakshmi@buffalo.edu">
+  <img src="https://img.shields.io/badge/Email-jlakshmi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/jahnavi-gayathri-34a240212">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Gayathri034">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
