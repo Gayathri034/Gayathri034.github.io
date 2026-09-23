@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jahnavi Gayathri | Portfolio</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #020617;
+      color: #e5e7eb;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 70px 20px;
+      background: linear-gradient(135deg, #020617, #1e1b4b, #7c3aed);
+      border-radius: 0 0 40px 40px;
+    }
+
+    .hero h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+      color: white;
+    }
+
+    .hero p {
+      font-size: 18px;
+      color: #dbeafe;
+    }
+
+    .badges a {
+      display: inline-block;
+      margin: 8px;
+      padding: 10px 16px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: white;
+      background: #2563eb;
+      font-weight: bold;
+      font-size: 14px;
+    }
+
+    .section-title {
+      background: linear-gradient(90deg, #1e1b4b, #7c3aed);
+      padding: 18px;
+      border-radius: 12px;
+      text-align: center;
+      margin-top: 50px;
+      margin-bottom: 25px;
+      color: white;
+      font-size: 26px;
+    }
+
+    .skills span {
+      display: inline-block;
+      background: #111827;
+      color: #dbeafe;
+      border: 1px solid #334155;
+      padding: 8px 14px;
+      border-radius: 20px;
+      margin: 6px;
+      font-size: 14px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: #0f172a;
+      border: 1px solid #334155;
+      border-radius: 16px;
+      padding: 22px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    }
+
+    .card h3 {
+      color: #93c5fd;
+      margin-top: 0;
+    }
+
+    .card a {
+      color: #38bdf8;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .highlight {
+      color: #a78bfa;
+      font-weight: bold;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      margin-top: 50px;
+      background: linear-gradient(135deg, #7c3aed, #1e1b4b, #020617);
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <section class="hero">
+    <h1>Jahnavi Gayathri Lakshmisetti</h1>
+    <p>AI/ML Software Engineer | Data Automation Engineer | Full-Stack Developer</p>
+
+    <div class="badges">
+      <a href="mailto:jlakshmi@buffalo.edu">Email</a>
+      <a href="https://www.linkedin.com/in/jahnavi-gayathri-34a240212" target="_blank">LinkedIn</a>
+      <a href="https://github.com/Gayathri034" target="_blank">GitHub</a>
+    </div>
+
+    <p>
+      Open to AI/ML Engineering, Software Engineering, Data Engineering, and Enterprise Automation roles.
+    </p>
+  </section>
+
+  <main class="container">
+
+    <h2 class="section-title">About Me</h2>
+    <p>
+      I am a Master's student in <span class="highlight">Computer Science and Engineering at the University at Buffalo</span>,
+      specializing in <span class="highlight">AI/ML</span>. I have <span class="highlight">2+ years of experience at Accenture</span>
+      working on enterprise automation, RPA development, REST API integrations, SQL-driven data validation,
+      workflow monitoring, testing, debugging, and technical documentation.
+    </p>
+
+    <h2 class="section-title">Tech Stack</h2>
+    <div class="skills">
+      <span>Python</span>
+      <span>SQL</span>
+      <span>JavaScript</span>
+      <span>TypeScript</span>
+      <span>React</span>
+      <span>Next.js</span>
+      <span>FastAPI</span>
+      <span>REST APIs</span>
+      <span>JSON</span>
+      <span>PyTorch</span>
+      <span>HuggingFace</span>
+      <span>OpenCV</span>
+      <span>PostgreSQL</span>
+      <span>MySQL</span>
+      <span>Git</span>
+      <span>GitHub</span>
+      <span>Docker Concepts</span>
+      <span>Linux</span>
+      <span>Power Automate</span>
+      <span>Automation Anywhere</span>
+    </div>
+
+    <h2 class="section-title">Featured Projects</h2>
+
+    <div class="grid">
+
+      <div class="card">
+        <h3>AI Career Twin</h3>
+        <p>
+          Built a full-stack AI-assisted career analysis platform that compares resumes with job descriptions
+          and generates match scores, matched skills, missing skills, resume suggestions, interview questions,
+          and a personalized learning plan.
+        </p>
+        <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Pydantic, REST APIs, JSON</p>
+        <a href="https://ai-career-twin-kappa.vercel.app" target="_blank">Live Demo</a> |
+        <a href="https://ai-career-twin-my2w.onrender.com" target="_blank">Backend API</a>
+      </div>
+
+      <div class="card">
+        <h3>Service Desk Ticket Classification</h3>
+        <p>
+          Built a deep learning-based ticket classification system using DistilBERT, CNN, and BiLSTM to classify
+          financial complaint tickets and improve support-ticket triage workflows.
+        </p>
+        <p><strong>Tech Stack:</strong> Python, PyTorch, HuggingFace Transformers, DistilBERT, NLP, LIME, Streamlit</p>
+      </div>
+
+      <div class="card">
+        <h3>Real-Time AI Data Intelligence Platform</h3>
+        <p>
+          Built a real-time monitoring platform that streams transaction events through WebSockets,
+          detects anomalies using Isolation Forest, and updates dashboard metrics live.
+        </p>
+        <p><strong>Tech Stack:</strong> Python, FastAPI, WebSockets, scikit-learn, React, TypeScript</p>
+      </div>
+
+      <div class="card">
+        <h3>Multimodal AI Perception for Intelligent Waste Sorting</h3>
+        <p>
+          Supporting a research project that collects and organizes multimodal plastic-object datasets from
+          a conveyor-based sensing setup for intelligent waste sorting.
+        </p>
+        <p><strong>Tech Stack:</strong> Python, Linux, Computer Vision, CVAT, Hyperspectral Imaging, Thermal Imaging, mmWave Radar</p>
+      </div>
+
+    </div>
+
+    <h2 class="section-title">Research Experience</h2>
+    <div class="card">
+      <h3>Research Assistant — University at Buffalo</h3>
+      <p>
+        Supporting a multimodal AI perception platform for intelligent waste sorting using hyperspectral,
+        RGB, monochrome, thermal, and mmWave radar data. Assisting with calibration workflows,
+        sensor synchronization, data-quality checks, annotation workflows, and experiment documentation.
+      </p>
+    </div>
+
+    <h2 class="section-title">Professional Experience</h2>
+    <div class="card">
+      <h3>Associate Software Engineer — Accenture</h3>
+      <p><strong>Jul 2023 – Aug 2025</strong></p>
+      <ul>
+        <li>Worked on enterprise automation, RPA development, REST API integrations, SQL-driven data validation, testing, debugging, and documentation.</li>
+        <li>Built reusable automation workflows for data intake, validation, status updates, exception routing, retry handling, and reporting.</li>
+        <li>Improved workflow reliability by approximately 30% and reduced recurring production incidents by approximately 25%.</li>
+        <li>Received ACE Award and client appreciation for automation improvements, debugging, documentation quality, and stakeholder communication.</li>
+      </ul>
+    </div>
+
+    <h2 class="section-title">Certifications</h2>
+    <div class="skills">
+      <span>Microsoft Power Platform Fundamentals</span>
+      <span>Microsoft Power Automate Desktop</span>
+      <span>Automation Anywhere</span>
+      <span>ASP.NET Full Stack Development</span>
+    </div>
+
+    <h2 class="section-title">Contact</h2>
+    <div class="card">
+      <p><strong>Email:</strong> <a href="mailto:jlakshmi@buffalo.edu">jlakshmi@buffalo.edu</a></p>
+      <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jahnavi-gayathri-34a240212" target="_blank">linkedin.com/in/jahnavi-gayathri-34a240212</a></p>
+      <p><strong>GitHub:</strong> <a href="https://github.com/Gayathri034" target="_blank">github.com/Gayathri034</a></p>
+    </div>
+
+  </main>
+
+  <footer>
+    <h2>Thanks for visiting!</h2>
+    <p>Building AI-powered software, data-driven systems, and enterprise automation solutions.</p>
+  </footer>
+
+</body>
+</html>
